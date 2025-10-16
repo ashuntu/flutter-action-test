@@ -1,0 +1,242 @@
+{
+  "snapPageVersionLabel": "Sürüm",
+  "@snapPageVersionLabel": {},
+  "packageFormatDebLabel": "Debian paketleri",
+  "@packageFormatDebLabel": {},
+  "snapCategoryBooksAndReference": "Kitaplar ve Kaynak",
+  "@snapCategoryBooksAndReference": {},
+  "snapCategoryProductivity": "Üretkenlik",
+  "@snapCategoryProductivity": {},
+  "snapCategorySocial": "Sosyal",
+  "@snapCategorySocial": {},
+  "productivityPageLabel": "Üretkenlik",
+  "@productivityPageLabel": {},
+  "gamesPageLabel": "Oyunlar",
+  "@gamesPageLabel": {},
+  "snapCategoryArtAndDesign": "Sanat ve Tasarım",
+  "@snapCategoryArtAndDesign": {},
+  "developmentPageLabel": "Geliştirme",
+  "@developmentPageLabel": {},
+  "snapPageChannelLabel": "Kanal",
+  "@snapPageChannelLabel": {},
+  "snapCategoryEducation": "Eğitim",
+  "@snapCategoryEducation": {},
+  "snapActionUpdateLabel": "Güncelle",
+  "@snapActionUpdateLabel": {},
+  "searchFieldDebSection": "Debian paketleri",
+  "@searchFieldDebSection": {},
+  "snapActionOpenLabel": "Aç",
+  "@snapActionOpenLabel": {},
+  "snapCategoryDevelopment": "Geliştirme",
+  "@snapCategoryDevelopment": {},
+  "appstreamUrlTypeContact": "İletişim",
+  "@appstreamUrlTypeContact": {},
+  "snapCategorySecurity": "Güvenlik",
+  "@snapCategorySecurity": {},
+  "snapCategoryFinance": "Finans",
+  "@snapCategoryFinance": {},
+  "snapCategoryServerAndCloud": "Sunucu ve Bulut",
+  "@snapCategoryServerAndCloud": {},
+  "aboutPageLabel": "Hakkında",
+  "@aboutPageLabel": {},
+  "snapCategoryScience": "Bilim",
+  "@snapCategoryScience": {},
+  "snapActionInstallLabel": "Yükle",
+  "@snapActionInstallLabel": {},
+  "snapPageLicenseLabel": "Lisans",
+  "@snapPageLicenseLabel": {},
+  "snapCategoryPhotoAndVideo": "Fotoğraf ve Video",
+  "@snapCategoryPhotoAndVideo": {},
+  "snapCategoryMusicAndAudio": "Müzik ve Ses",
+  "@snapCategoryMusicAndAudio": {},
+  "packageFormatSnapLabel": "Snap paketleri",
+  "@packageFormatSnapLabel": {},
+  "snapCategoryGames": "Oyunlar",
+  "@snapCategoryGames": {},
+  "snapPageDescriptionLabel": "Tanım",
+  "@snapPageDescriptionLabel": {},
+  "explorePageLabel": "Keşfet",
+  "@explorePageLabel": {},
+  "searchFieldSnapSection": "Snap paketleri",
+  "@searchFieldSnapSection": {},
+  "appCenterLabel": "Uygulama Merkezi",
+  "@appCenterLabel": {},
+  "snapPageContactPublisherLabel": "İletişime geç {publisher}",
+  "@snapPageContactPublisherLabel": {
+    "placeholders": {
+      "publisher": {
+        "type": "String"
+      }
+    }
+  },
+  "snapPageDeveloperWebsiteLabel": "Geliştirici Websitesi",
+  "@snapPageDeveloperWebsiteLabel": {},
+  "snapPageDownloadSizeLabel": "İndirme boyutu",
+  "@snapPageDownloadSizeLabel": {},
+  "snapPageGalleryLabel": "Galeri",
+  "@snapPageGalleryLabel": {},
+  "snapPageLinksLabel": "Bağlantılar",
+  "@snapPageLinksLabel": {},
+  "snapPagePublisherLabel": "Yayıncı",
+  "@snapPagePublisherLabel": {},
+  "snapPagePublishedLabel": "Yayınlanmış",
+  "@snapPagePublishedLabel": {},
+  "snapPageSummaryLabel": "Özet",
+  "@snapPageSummaryLabel": {},
+  "snapPageShareLinkCopiedMessage": "Bağlantı panoya kopyalandı",
+  "@snapPageShareLinkCopiedMessage": {},
+  "explorePageCategoriesLabel": "Kategoriler",
+  "@explorePageCategoriesLabel": {},
+  "managePageCheckForUpdates": "Güncellemeleri kontrol et",
+  "@managePageCheckForUpdates": {},
+  "managePageCheckingForUpdates": "Güncellemeler kontrol ediliyor",
+  "@managePageCheckingForUpdates": {},
+  "managePageDescription": "Uygulamalarınızın mevcut güncellemelerini kontol edin, güncelleyin ve durumlarını yönetin.",
+  "@managePageDescription": {},
+  "managePageInstalledAndUpdatedLabel": "Yüklü ve güncellenmiş",
+  "@managePageInstalledAndUpdatedLabel": {},
+  "managePageLabel": "Yönet",
+  "@managePageLabel": {},
+  "managePageNoUpdatesAvailableDescription": "Şu an için güncelleme bulunmuyor. Tüm uygulamalarınız güncel.",
+  "@managePageNoUpdatesAvailableDescription": {},
+  "managePageSearchFieldSearchHint": "Yüklü uygulamalarınızı arayın",
+  "@managePageSearchFieldSearchHint": {},
+  "managePageShowDetailsLabel": "Ayrıntıları göster",
+  "@managePageShowDetailsLabel": {},
+  "managePageShowSystemSnapsLabel": "System Snap'lerini göster",
+  "@managePageShowSystemSnapsLabel": {},
+  "managePageUpdateAllLabel": "Tümünü güncelle",
+  "@managePageUpdateAllLabel": {},
+  "managePageUpdatedDaysAgo": "{n} gün önce güncellendi",
+  "@managePageUpdatedDaysAgo": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "managePageUpdatesAvailable": "Güncellemeler mevcut ({n})",
+  "@managePageUpdatesAvailable": {},
+  "managePageUpdatedYearsAgo": "{n} yıl önce güncellendi",
+  "@managePageUpdatedYearsAgo": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "managePageUpdatedWeeksAgo": "{n} hafta önce güncellendi",
+  "@managePageUpdatedWeeksAgo": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "managePageUpdatedMonthsAgo": "{n} ay önce güncellendi",
+  "@managePageUpdatedMonthsAgo": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "gamesPageTop": "En iyi Oyunlar",
+  "@gamesPageTop": {},
+  "appstreamSearchGreylist": "uygulama;uygulama;paket;program;program;?;araç",
+  "@appstreamSearchGreylist": {},
+  "gamesPageTitle": "En İyiler",
+  "@gamesPageTitle": {},
+  "searchPageNoResults": "\"{query}\" araması için sonuç bulunamadı",
+  "@searchPageNoResults": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "searchPageRelevanceLabel": "Alaka düzeyi",
+  "@searchPageRelevanceLabel": {},
+  "searchPageSortByLabel": "Sırala",
+  "@searchPageSortByLabel": {},
+  "aboutPageLearnMoreLabel": "Daha fazla bilgi edinin",
+  "@aboutPageLearnMoreLabel": {},
+  "appstreamUrlTypeHelp": "Yardım",
+  "@appstreamUrlTypeHelp": {},
+  "unknownPublisher": "Bilinmeyen yayıncı",
+  "@unknownPublisher": {},
+  "gamesPageFeatured": "Öne Çıkanlar",
+  "@gamesPageFeatured": {},
+  "gamesPageBundles": "Uygulama Paketleri",
+  "@gamesPageBundles": {},
+  "searchFieldSearchHint": "Uygulama ara",
+  "@searchFieldSearchHint": {},
+  "searchFieldSearchForLabel": "\"{query}\" araması için sonuçları gör",
+  "@searchFieldSearchForLabel": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "searchPageFilterByLabel": "Filtrele",
+  "@searchPageFilterByLabel": {},
+  "searchPageNoResultsHint": "Farklı veya daha genel anahtar kelimeler kullanın",
+  "@searchPageNoResultsHint": {},
+  "searchPageNoResultsCategory": "Üzgünüz, bu kategoriye ait bir paket bulamadık",
+  "@searchPageNoResultsCategory": {},
+  "searchPageNoResultsCategoryHint": "Farklı kategoriyi deneyin veya daha genel anahtar kelimeler kullanın",
+  "@searchPageNoResultsCategoryHint": {},
+  "searchPageTitle": "\"{query}\" için sonuçlar",
+  "@searchPageTitle": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "aboutPageVersionLabel": "Sürüm {version}",
+  "@aboutPageVersionLabel": {
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "aboutPageContributorTitle": "Tasarlayan ve geliştiren:",
+  "@aboutPageContributorTitle": {},
+  "aboutPageCommunityTitle": "Topluluğun parçası ol:",
+  "@aboutPageCommunityTitle": {},
+  "aboutPageContributeLabel": "Katkıda bulunun veya hata bildirin",
+  "@aboutPageContributeLabel": {},
+  "aboutPageGitHubLabel": "GitHub'da bizi bulun",
+  "@aboutPageGitHubLabel": {},
+  "aboutPagePublishLabel": "Snap Mağazası'na yayınla",
+  "@aboutPagePublishLabel": {},
+  "appstreamUrlTypeBugtracker": "Hata izleyici",
+  "@appstreamUrlTypeBugtracker": {},
+  "appstreamUrlTypeDonation": "Bağış",
+  "@appstreamUrlTypeDonation": {},
+  "appstreamUrlTypeFaq": "SSS",
+  "@appstreamUrlTypeFaq": {},
+  "appstreamUrlTypeHomepage": "Ana Sayfa",
+  "@appstreamUrlTypeHomepage": {},
+  "appstreamUrlTypeTranslate": "Çeviriler",
+  "@appstreamUrlTypeTranslate": {},
+  "snapActionCancelLabel": "İptal Et",
+  "@snapActionCancelLabel": {},
+  "snapActionInstallingLabel": "Yükleniyor",
+  "@snapActionInstallingLabel": {},
+  "snapActionRemoveLabel": "Yüklemeyi Kaldır",
+  "@snapActionRemoveLabel": {},
+  "snapActionRemovingLabel": "Yükleme Kaldırılıyor",
+  "@snapActionRemovingLabel": {},
+  "snapActionSwitchChannelLabel": "Kanal değiştir",
+  "@snapActionSwitchChannelLabel": {},
+  "snapCategoryAll": "Tüm kategoriler",
+  "@snapCategoryAll": {},
+  "snapActionUpdatingLabel": "Güncelleniyor",
+  "@snapActionUpdatingLabel": {},
+  "snapCategoryDefaultButtonLabel": "Daha fazlasını keşfet",
+  "@snapCategoryDefaultButtonLabel": {}
+}
